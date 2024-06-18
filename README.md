@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>My first Repository</title>
+    My first Repository
   </head>
   <body>
     <p>Github is a very useful tool</p>
